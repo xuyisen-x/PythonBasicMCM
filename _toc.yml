@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Miniconda的安装与环境的配置（Windows）
+- file: Python包的安装
+- file: Python基础教程
+- file: Numpy
+- file: matplotlib
+- file: SciPy
+- file: scikit-opt
+- file: SymPy
+- file: Pandas
+- file: scikit-learn
